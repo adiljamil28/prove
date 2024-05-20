@@ -27,7 +27,7 @@ export  function TechnologyScroll () {
           {TechObject.map((TechObj) => {
             return (
 
-              <div>
+              <div key={TechObj.id}>
                 <section className="technology bg-black">
                   <div className="animation-technology stroke ">
                      <span key={TechObj.id} className="tech-head tech-1 text-nowrap block font-light text-xl md:text-9xl lg:text-9xl lg:leading-relaxed">{TechObj.title}</span>

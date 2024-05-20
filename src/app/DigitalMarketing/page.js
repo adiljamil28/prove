@@ -41,9 +41,9 @@ export default function DigitalMarketing () {
                           design world.</p><br/>
 
                           <p class="hasAniTitle text-lg font-normal text-white">We offer a range of services to elevate your brand presence. With expertise in logo design, website design, video animation, SEO, social media marketing, mobile application development, and branding, we have successfully catered to diverse client requirements.</p>
-                            <p class="hasAniTitle text-lg font-normal text-white">We pride ourselves on our ability to understand and align with each client's unique goals. Our dedicated team of talented designers and developers work closely with you to create visually stunning and functional designs that leave a lasting impression.
+                            <p class="hasAniTitle text-lg font-normal text-white">We pride ourselves on our ability to understand and align with each client&apos;s unique goals. Our dedicated team of talented designers and developers work closely with you to create visually stunning and functional designs that leave a lasting impression.
 
-                            <br/>Partner with us to unlock your brand's full potential and make a powerful impact in your industry!</p>
+                            <br/>Partner with us to unlock your brand&apos;s full potential and make a powerful impact in your industry!</p>
                     </div>
 
                     <div className="flex-wrap lg:w-7/12 sm:w-1/2 text-right">
