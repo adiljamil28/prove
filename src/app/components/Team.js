@@ -5,9 +5,10 @@ export const Team = () => {
   return (
     <div>
       <div className='container mx-auto'>
-        <div className='team-sec flex justify-evenly items-center py-20 gap-5'>
-        <h4 className='text-6xl or-color font-semibold'>MEET THE LEADERS<br/>
-            <span className='text-4xl text-[#f4f0ea] font-semibold'>WHO RUNS THE SHOW</span></h4>
+        <div className='team-sec flex justify-evenly items-center py-20 gap-5 lg:flex-row flex-col'>
+
+          <h4 className='lg:text-6xl or-color font-semibold'>MEET THE LEADERS<br/>
+            <span className='lg:text-4xl text-[#f4f0ea] font-semibold'>WHO RUNS THE SHOW</span></h4>
           <div className='agent text-center'>
             <Image className='mx-auto -mb-8' src={"/t1.webp"} alt='agent-pic' height={100} width={100}/>
             <div className='or-bg py-10 rounded-lg px-5'>

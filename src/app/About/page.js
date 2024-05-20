@@ -53,7 +53,7 @@ export default function About() {
 
             <section className='why-us lg:py-24'>
             <h2 class="text-4xl md:text-8xl lg:text-8xl font-black py-4 text-[#f4f0ea] text-center">Offer <span class="stroke">&amp;</span> Services</h2>
-                <div className="container mx-auto flex lg:flex-row items-center ">
+                <div className="container mx-auto flex lg:flex-row items-center flex-col">
                     
                     <h3 class="text-3xl font-semibold uppercase md:mx-auto py-4 lg:leading-relaxed or-font text-[#f4f0ea]">
                     Let Us Draft Legendary Ideas for you every day!

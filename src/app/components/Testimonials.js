@@ -11,7 +11,7 @@ export const Testimonials = () => {
                     {/* <div className="section-title">
             <h2>Testimonials</h2>
             </div> */}
-                    <div className="grid grid-cols-3 gap-7">
+                    <div className="grid lg:grid-cols-3 gap-7">
 
                         <div className="testimonials-slider border-solid border-2 p-10 border-neutral-500 rounded-lg slideInUp">
                             <div className="testimonials-item flex justify-between items-center">

@@ -5,9 +5,9 @@ export const Capability = () => {
     return (
         <div className='main'>
             <section className='capability-section'>
-                <div className="container mx-auto flex lg:flex-row gap-10">
+                <div className="container mx-auto flex lg:flex-row gap-10 flex-col">
 
-                    <div className="flex-wrap lg:w-6/12 sm:w-1/2 ">
+                    <div className="flex-wrap lg:w-1/2 ">
 
                         <div className='str-1'>
                             <h2 class="text-4xl md:text-4xl lg:text-4xl font-black py-4 text-white"><span class="stroke">Landing Pages & Websites</span></h2>
@@ -29,9 +29,9 @@ export const Capability = () => {
 
                     </div>
 
-                    <div className="banner-image lg:w-6/12 sm:w-1/2 text-right">
-                        <h2 class="text-4xl md:text-4xl lg:text-4xl font-white  text-white"><span class="stroke">CAPABILITIES</span></h2>
-                        <h3 class="text-4xl md:text-4xl lg:text-4xl font-white  text-white">Skills that meet your needs – and obliterate your competition.</h3>
+                    <div className="banner-image lg:w-1/2 text-right">
+                        <h2 class="text-2xl md:text-4xl lg:text-4xl font-white  text-white"><span class="stroke">CAPABILITIES</span></h2>
+                        <h3 class="text-2xl md:text-4xl lg:text-4xl font-white  text-white">Skills that meet your needs – and obliterate your competition.</h3>
                         <p class="text-lg md:text-lg lg:text-lg font-white py-4 text-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s,
                          when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
 

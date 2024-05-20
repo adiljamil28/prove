@@ -29,11 +29,11 @@ export default function DigitalMarketing () {
         <Project />
 
         <section className='why-us'>
-                <div className="container mx-auto flex lg:flex-row py-14 item-center lg:justify-items-center">
+                <div className="container mx-auto flex lg:flex-row py-14 item-center lg:justify-items-center flex-col">
                   
-                    <div className="banner-image lg:w-5/12 sm:w-1/2">
-                        <h2 class="text-4xl md:text-4xl lg:text-4xl font-white  text-white">WHY <span class="stroke">COMPANY NAME</span></h2>
-                        <h3 class="text-4xl md:text-4xl lg:text-4xl font-white  text-white lg:leading-loose">Is A Leading App Agency</h3>
+                    <div className="main-banner-image lg:w-5/12 sm:w-1/2">
+                        <h2 class="text-3xl md:text-4xl lg:text-4xl font-white  text-white">WHY <span class="stroke">COMPANY NAME</span></h2>
+                        <h3 class="text-3xl md:text-4xl lg:text-4xl font-white  text-white lg:leading-loose mb-5">Is A Leading App Agency</h3>
                         <p class="hasAniTitle text-lg font-normal text-white">
                         At Pine Digital Hub , a professional digital design agency, established in 2023, we have been at the forefront
                          of the industry, consistently delivering exceptional results that help businesses thrive. Our journey began 

@@ -7,8 +7,8 @@ export const Packages = () => {
         <section className="packages bg-black lg:py-20">
         <div className="container mx-auto md:w-[60%]">
           <div className="flex flex-col text-center tech-contant">
-            <h2 className="text-4xl md:text-8xl lg:text-8xl font-black py-4 text-white">OFFERING </h2>
-            <h3 className="text-3xl font-semibold uppercase md:mx-auto py-4 lg:leading-relaxed text-white">Accelerating Business Growth With High-Tech Tools And Assets For Ultimate Success</h3>
+            <h2 className="text-3xl md:text-8xl lg:text-8xl font-black py-4 text-white">OFFERING </h2>
+            <h3 className="text-2xl font-semibold uppercase md:mx-auto py-4 lg:leading-relaxed text-white">Accelerating Business Growth With High-Tech Tools And Assets For Ultimate Success</h3>
             <p class="hasAniTitle text-lg font-normal text-white">
                 <span>With a keen track of the latest technological breakthroughs and improvements, COMPANY enjoys</span>
             </p>
@@ -26,11 +26,11 @@ export const Packages = () => {
                   </svg>
                 </div>
 
-                <h2 className="text-3xl font-bold or-color">Mobile Application Development</h2>                
+                <h2 className="md:text-3xl font-bold or-color">Mobile Application Development</h2>                
               </div>
 
             <div className='pack-detail'>
-            <ul class="list-disc md:p-10 text-xl leading-relaxed text-white">
+            <ul class="list-disc p-10 md:text-xl leading-relaxed text-white">
                 <li>Mobile App Development</li>
                 <li>iOS App Development</li>
                 <li>Android App Development</li>
@@ -57,11 +57,11 @@ export const Packages = () => {
                   </svg>
                 </div>
 
-                <h2 className="text-3xl font-bold or-color">Game Development</h2>                
+                <h2 className="md:text-3xl font-bold or-color">Game Development</h2>                
               </div>
 
             <div className='pack-detail'>
-            <ul class="list-disc md:p-10 text-xl leading-relaxed text-white">
+            <ul class="list-disc p-10 md:text-xl leading-relaxed text-white">
                 <li>Mobile App Development</li>
                 <li>iOS App Development</li>
                 <li>Android App Development</li>
@@ -89,11 +89,11 @@ export const Packages = () => {
                   </svg>
                 </div>
 
-                <h2 className="text-3xl font-bold or-color">Marketing & Support</h2>                
+                <h2 className="md:text-3xl font-bold or-color">Marketing & Support</h2>                
               </div>
 
             <div className='pack-detail'>
-            <ul class="list-disc md:p-10 text-xl leading-relaxed text-white">
+            <ul class="list-disc p-10 md:text-xl leading-relaxed text-white">
                 <li>Mobile App Development</li>
                 <li>iOS App Development</li>
                 <li>Android App Development</li>

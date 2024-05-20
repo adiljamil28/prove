@@ -6,7 +6,7 @@ export const Footer = () => {
         <div className='main'>
             <section className='footer-form md:py-20'>
                 <div className='container mx-auto'>
-                    <div className='flex gap-24 items-start justify-between'>
+                    <div className='flex gap-24 items-start justify-between lg:flex-row flex-col'>
                     
                     <div className="lg:w-1/2 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto mt-10 md:mt-0 relative z-10 shadow-md">
                     <h2 className="text-gray-900 text-lg mb-1 font-medium title-font">Feedback</h2>

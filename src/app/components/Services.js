@@ -10,9 +10,9 @@ export const Services = () => {
 
 
             <section className='why-us lg:py-24'>
-                <div className="container mx-auto flex lg:flex-row items-center ">
+                <div className="container mx-auto flex lg:flex-row items-center flex-col">
 
-                    <h3 class="text-3xl font-semibold uppercase md:mx-auto py-4 lg:leading-relaxed or-font text-white">
+                    <h3 class="md:text-3xl font-semibold uppercase md:mx-auto py-4 lg:leading-relaxed or-font text-white">
                     Let Us Draft Legendary Ideas for you every day!
                     </h3>
 

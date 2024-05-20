@@ -26,13 +26,13 @@ export const Faqs = () => {
                         Questions</h2>
 
                     {[...Array(6)].map((_, index) => (
-                        <div className="questions lg:pt-10" onClick={() => toggleFAQ(index)} key={index}>
-                            <div className='ques border p-10 rounded-xl'>
+                        <div className="questions mt-10 " onClick={() => toggleFAQ(index)} key={index}>
+                            <div className='ques border p-5 rounded-xl'>
 
                                 <div className="question flex items-center justify-between">
 
-                                    <p className='text-gray-500 text-lg title-font mb-1 font-bold border-b'>
-                                        <span className='or-color text-2xl title-font font-black md:leading-loose mr-2'>QUESTION :</span>
+                                    <p className='text-gray-500 text-lg title-font font-bold'>
+                                        <span className='or-color md:text-2xl  title-font font-black md:leading-loose mr-2'>QUESTION :</span>
                                         {index + 1}. {["How do I self-publish my book?",
                                             "Is publishing a book difficult?",
                                             "What is an ISBN and do I need one?",
@@ -48,7 +48,7 @@ export const Faqs = () => {
                                 <div className="answer">
                                 
                                     <p className={`mt-3 text-gray-500 text-lg transition-max-height mb-1 font-bold duration-500 ease-in-out ${isToggled === index ? 'max-h-60' : 'max-h-0 overflow-hidden'}`}>
-                                    <span className='or-color text-2xl title-font font-black md:leading-loose mr-2'>ANSWER :</span>
+                                    <span className='or-color md:text-2xl title-font font-black md:leading-loose mr-2'>ANSWER :</span>
                                         {["Details about self-publishing...",
                                          "Details about book publishing difficulty...",
                                           "Details about ISBN...",
