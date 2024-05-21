@@ -6,7 +6,7 @@ export const WhyUs = () => {
 
             <section className='why-us'>
                 <div className="container mx-auto flex lg:flex-row flex-col py-14 ">
-                    <div className="lg:w-5/12 lg:sticky sm:relative">
+                    <div className="lg:w-5/12 lg:sticky sm:relative text-center md:text-left">
                         <h2 class="text-2xl md:text-4xl lg:text-4xl font-white  text-white">WHY <span class="stroke">COMPANY NAME</span></h2>
                         <h3 class="text-2xl md:text-4xl lg:text-4xl font-white  text-white lg:leading-loose">Is A Leading App Agency</h3>
                         <p class="hasAniTitle text-lg font-normal text-white">

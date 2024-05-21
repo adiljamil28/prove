@@ -26,7 +26,7 @@ export const Faqs = () => {
                         Questions</h2>
 
                     {[...Array(6)].map((_, index) => (
-                        <div className="questions lg:mx-1 inline-block w-[49%] align-middle" onClick={() => toggleFAQ(index)} key={index}>
+                        <div className="questions lg:mx-1 inline-block md:w-[49%] align-middle" onClick={() => toggleFAQ(index)} key={index}>
                             <div className='ques border p-7 mb-5 rounded-xl'>
                                
                                 <div className="question flex items-center justify-between">

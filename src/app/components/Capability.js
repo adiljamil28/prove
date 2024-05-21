@@ -29,7 +29,7 @@ export const Capability = () => {
 
                     </div>
 
-                    <div className="banner-image lg:w-1/2 text-right">
+                    <div className="banner-image lg:w-1/2 md:text-right text-center">
                         <h2 class="text-2xl md:text-4xl lg:text-4xl font-white  text-white"><span class="stroke">CAPABILITIES</span></h2>
                         <h3 class="text-2xl md:text-4xl lg:text-4xl font-white  text-white">Skills that meet your needs – and obliterate your competition.</h3>
                         <p class="text-lg md:text-lg lg:text-lg font-white py-4 text-white">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s,

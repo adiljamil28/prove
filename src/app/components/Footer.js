@@ -34,7 +34,7 @@ export const Footer = () => {
                     <p className="text-xs text-gray-500 mt-3">Chicharrones blog helvetica normcore iceland tousled brook viral artisan.</p>
                     </div>
 
-                    <div className="str-1 lg:w-1/2 md:w-1/2" >
+                    <div className="str-1 lg:w-1/2 md:w-1/2 text-center md:text-left" >
                         <h2 className="text-4xl md:text-6xl lg:text-6xl font-black py-4 text-white">
                             Let’s have a cup of coffee together.
                         </h2>
