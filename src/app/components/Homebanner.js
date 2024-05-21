@@ -9,7 +9,7 @@ export default function Homebanner() {
 
 <BannerVid />
 <Bannerprops
-banMainPic="/banner-img.webp"
+banMainPic="/banner.webp"
 Banh1="COMPANY NAME"
 Banh2="MARKETING EXPERTS"
 Banh3=""

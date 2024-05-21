@@ -5,7 +5,7 @@ import React from 'react'
 export const Bannerprops = (props) => {
     return (
         <div>
-            <div className="main-banner container mx-auto lg:h-[100vh] h-[85vh] flex lg:py-48  lg:flex-row flex-col-reverse">
+            <div className="main-banner container mx-auto lg:h-[100vh] h-[85vh] flex lg:py-48  lg:flex-row flex-col-reverse items-center">
 
                 <div className="flex-wrap lg:w-7/12 sm:w-1/2">
                     <h1 className="text-white font-bold lg:text-7xl leading-normal">{props.Banh1}</h1>
